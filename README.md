@@ -3,7 +3,7 @@
 ## Introduction
 
 This module deploys Update Management Schedules for Linux and Windows servers.
-
+adapted from https://github.com/canada-ca-terraform-modules/terraform-azurerm_update_management
 ## Dependancies
 
 Hard:
